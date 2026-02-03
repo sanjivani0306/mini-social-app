@@ -1,0 +1,21 @@
+# Node modules (very large)
+node_modules/
+
+# Environment variables (SECRET FILE)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / cache
+dist/
+build/
+
+# VS Code settings (optional)
+.vscode/
